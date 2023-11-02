@@ -4,7 +4,7 @@ import { FaRegTrashAlt } from "react-icons/fa";
 const Navbar = () => {
     return (
         <div>
-            <div className='flex gap-2'>
+            <div className='flex gap-2 px-2'>
                 <div className='w-full flex items-center'>
                     <img className='md:w-20 w-11' src="/public/logo.png" alt="" />
                     <p className='md:text-3xl'><span className='font-bold text-orange-400'>Photo</span> <span className='font-thin'>Fair</span></p>

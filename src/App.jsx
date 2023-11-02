@@ -9,11 +9,11 @@ function App() {
         <Navbar></Navbar>
       </div>
 
-      <div>
+      <div className="mt-5">
         <Gallery></Gallery>
       </div>
 
-      <div>
+      <div className="mt-5">
         <Footer></Footer>
       </div>
     </>
